@@ -1,6 +1,6 @@
 # KTM_220243_DA21TTC_110121222_110121248_110121267
 
-# Đề tài: Xây dựng website hỗ trợ đặt phòng khách sạn trên địa bàn tỉnh Trà Vinh- CodeIgniter,php
+# Đề tài: Xây dựng website hỗ trợ đặt phòng khách sạn- CodeIgniter,php, MySQL,...
 ##Thành viên nhóm
 1.	110121248 – Nguyễn Khánh Băng - DA21TTC
 2.	110121267 – Trần Thị Thùy Dương - DA21TTC
